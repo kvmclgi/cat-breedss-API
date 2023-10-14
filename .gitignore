@@ -1,0 +1,6 @@
+.env
+cat-breeds
+.idea
+.vscode
+*.exe
+*.exe~
